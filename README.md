@@ -41,7 +41,7 @@ FinSight Bot is an AI-powered financial and stock market news analysis tool desi
 
 - 1. Clone the repository:
   ```bash
-    git clone https://github.com/yasvini/finsight-bot.git
+    git clone https://github.com/shyamson118/FINSIGHT-BOT.git
     cd finsight-bot
 
 - 2. Install dependencies:
